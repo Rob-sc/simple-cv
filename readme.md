@@ -18,9 +18,6 @@ This is a personal resume website built entirely with **HTML and CSS**, designed
 
 The main goal of this project is to demonstrate that a fully functional and visually appealing personal website can be created using just HTML and CSS — no JavaScript required.
 
-## 📷 Screenshot
-
-![Screenshot of the CV](path/to/screenshot.png) <!-- Replace with your actual screenshot path -->
 
 ## 📁 How to Use
 
