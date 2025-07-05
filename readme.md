@@ -1,0 +1,29 @@
+# 🌐 CV Website - HTML & CSS Only
+
+This is a personal resume website built entirely with **HTML and CSS**, designed to showcase my professional profile in a clean, responsive, and lightweight way. No JavaScript or external frameworks are used.
+
+## 📌 Features
+
+- 100% HTML and CSS
+- Responsive design for mobile and desktop
+- Clean and professional layout
+- Easy to read and modify
+
+## 🧰 Technologies Used
+
+- HTML5
+- CSS3 (Flexbox and/or Grid)
+
+## 💡 Purpose
+
+The main goal of this project is to demonstrate that a fully functional and visually appealing personal website can be created using just HTML and CSS — no JavaScript required.
+
+## 📷 Screenshot
+
+![Screenshot of the CV](path/to/screenshot.png) <!-- Replace with your actual screenshot path -->
+
+## 📁 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
