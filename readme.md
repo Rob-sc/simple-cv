@@ -23,4 +23,4 @@ The main goal of this project is to demonstrate that a fully functional and visu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone git@github.com:Rob-sc/simple-cv.git
